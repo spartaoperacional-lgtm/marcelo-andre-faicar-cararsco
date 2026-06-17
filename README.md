@@ -1,11 +1,23 @@
-<div align="center">
+# Sparta Litoral Security - Gestão Operacional
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Sistema inteligente para gestão de escalas, efetivo e operações de controle de acesso.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Como Rodar
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Este projeto foi construído com Next.js 15.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+1. Instale as dependências:
+   ```bash
+   npm install
+   ```
 
-</div>
+2. Rode em modo de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
+
+3. Acesse em seu navegador:
+   `http://localhost:9002`
+
+---
+*Sparta Litoral Security • Excelência em Controle de Acesso*
